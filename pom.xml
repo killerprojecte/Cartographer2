@@ -35,14 +35,14 @@
 		<module>Cartographer2_API</module>
 		<module>Cartographer2_ModuleVanilla</module>
 		<module>Cartographer2_ModuleExperimental</module>
-		<module>Cartographer2_ModuleWorldviewer</module>
-		<module>Cartographer2_ModuleFactionsuuid</module>
+		<module>Cartographer2_ModuleWorldViewer</module>
+		<module>Cartographer2_ModuleFactionsUUID</module>
 		<module>Cartographer2_ModuleTowny</module>
 		<module>Cartographer2_ModuleResidence</module>
 		<module>Cartographer2_ModuleGuilds</module>
-		<module>Cartographer2_ModuleWorldguard_master</module>
+		<module>Cartographer2_ModuleWorldGuard_Master</module>
 		<module>Cartographer2_ModuleLands</module>
-		<module>Cartographer2_ModuleGriefprevention</module>
+		<module>Cartographer2_ModuleGriefPrevention</module>
 	</modules>
 
 	<build>
